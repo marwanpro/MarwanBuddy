@@ -24,7 +24,7 @@ namespace EloBuddy_Master_Race
                 Game.Say("/all Download your best script at EloBuddy.NET");
                 Game.Say("/all Dodge every skillshot, carry your ranked !");
                 Game.Say("/all No virus, 100% Safe, Undetectable");
-                Game.Say("http://elobuddy.net");
+                Game.Say("/all http://elobuddy.net");
             }
         }
 
