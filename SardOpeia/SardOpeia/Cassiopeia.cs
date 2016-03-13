@@ -265,11 +265,14 @@ namespace SardOpeia
         } */
 
         // === Check if target is poisoned === //
-        public static bool IsPoisoned(Obj_AI_Base target)
+        /*public static bool IsPoisoned(Obj_AI_Base target)
         {
             return target.Buffs.Where(o => o.IsValid()).Any(buff => buff.DisplayName.Contains("Cassiopeia"));
+        }*/
+        public static bool IsPoisoned(Obj_AI_Base target)
+        {
+            return target.HasBuffOfType(BuffType.Poison); //Fixed by Hellsing himself :jodus:
         }
-
         // === Spell Damage Calculator (Based on WujuSan Addons) === //
         static float SpellDamage(Obj_AI_Base target, SpellSlot slot)
         {
