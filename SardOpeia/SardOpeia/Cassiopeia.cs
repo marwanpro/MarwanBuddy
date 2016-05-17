@@ -10,7 +10,7 @@
  *
  *  Description: Cassiopeia Addon for EloBuddy with Combo, Range Drawer and more...
  *  
- *  Credits: Sardoche, Hellsing, WujuSan, Buddy, Ban, MrArticuno, WhoIAM, KeiZsT, MarioGK
+ *  Credits: Sardoche, Hellsing, WujuSan, Buddy, Ban, MrArticuno, WhoIAM, KeiZsT, MarioGK, HEI Cii
  *
  *  Thread Link: https://www.elobuddy.net/topic/8192-X
  *  Install Link: http://elobuddydb.com/link/269?github
