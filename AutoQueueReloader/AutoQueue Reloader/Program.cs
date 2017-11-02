@@ -1,6 +1,6 @@
 ﻿/*
  *  Project Name: Auto Queue Reloader (AQR)
- *  Author: marwanpro ( marwan69120@live.fr )
+ *  Author: marwanpro
  *  Version: 1.3 (FINAL)
  *  Last Update: 06/02/2016 17:00 @ GMT +1 
  *  License: WTFPL v2 + Details above
